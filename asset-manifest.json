@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Savarrior/static/css/main.c25a873f.css",
-    "main.js": "/Savarrior/static/js/main.103df3b9.js",
+    "main.js": "/Savarrior/static/js/main.af34a1b6.js",
     "static/js/787.65439f1c.chunk.js": "/Savarrior/static/js/787.65439f1c.chunk.js",
     "index.html": "/Savarrior/index.html",
     "main.c25a873f.css.map": "/Savarrior/static/css/main.c25a873f.css.map",
-    "main.103df3b9.js.map": "/Savarrior/static/js/main.103df3b9.js.map",
+    "main.af34a1b6.js.map": "/Savarrior/static/js/main.af34a1b6.js.map",
     "787.65439f1c.chunk.js.map": "/Savarrior/static/js/787.65439f1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c25a873f.css",
-    "static/js/main.103df3b9.js"
+    "static/js/main.af34a1b6.js"
   ]
 }
